@@ -1,6 +1,7 @@
 # WeRockTech
 
 http://werocktech.github.io
+http://werocktech.com
 
 ### Technologies
 
