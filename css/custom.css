@@ -1,0 +1,30 @@
+nav.navbar {
+    border-bottom: 1px solid rgba(0,0,0,.1);
+    margin-bottom: 2rem;
+}
+
+footer.navbar {
+    border-top: 1px solid rgba(0,0,0,.1);
+}
+
+div.banner {
+    border-bottom: 1px solid rgba(0,0,0,.1);
+    margin-bottom: 2rem;
+}
+
+div.banner p {
+    font-size: larger;
+}
+
+h1 {
+    font-size: 1.4rem;
+}
+
+h2 {
+    font-size: 1.1rem;
+}
+
+div.card div.card-header,
+div.card div.card-footer {
+    background-color: #fff;
+}
