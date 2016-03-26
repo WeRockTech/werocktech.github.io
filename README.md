@@ -1,6 +1,6 @@
 # WeRockTech
 
-![WeRockTech Word Cloud](/img/wordcloud.svg)
+![WeRockTech Word Cloud](img/wordcloud.svg)
 
 * http://werocktech.github.io
 * http://werocktech.com
