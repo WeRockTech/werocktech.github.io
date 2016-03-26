@@ -1,7 +1,9 @@
 # WeRockTech
 
-http://werocktech.github.io
-http://werocktech.com
+![WeRockTech Word Cloud](/img/wordcloud.svg)
+
+* http://werocktech.github.io
+* http://werocktech.com
 
 ### Technologies
 
