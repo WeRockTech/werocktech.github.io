@@ -2,6 +2,8 @@
 
 ![WeRockTech Word Cloud](https://cdn.rawgit.com/WeRockTech/werocktech.github.io/master/img/wordcloud.svg)
 
+*Want to add to these words? Make changes to `TagCloud.md`*
+
 * http://werocktech.github.io
 * http://werocktech.com
 
