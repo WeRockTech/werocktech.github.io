@@ -7,10 +7,12 @@ WeRockTech WeRockTech WeRockTech WeRockTech WeRockTech WeRockTech
 WomenRockTech WomenRockTech WomenRockTech WomenRockTech
 GirlsRockTech GirlsRockTech GirlsRockTech
 TeensRockTech TeensRockTech TeensRockTech
+MumsRockTech MumsRockTech MumsRockTech MumsRockTech 
 Collaboration Collaboration Collaboration Collaboration
 Development Development Development
 OpenSource OpenSource OpenSource OpenSource
 Open Open Open
+Transparent Transparent Transparent 
 Learning Learning Learning
 Teaching Teaching Teaching
 Code Code Code Code Code
@@ -18,9 +20,10 @@ Geek Geek Geek
 Nerd Nerd Nerd
 Tech Tech Tech
 Technology Technology Technology
-Women Women Women Women
+Women Women Women
 Men Men Men
-People
+Trans Trans Trans 
+People People People
 Girls Girls Girls Girls
 Gal Gal Gal Gal
 Diversity Diversity Diversity
@@ -35,6 +38,8 @@ Work work
 Respect
 Knowledge Share Transfer
 Family Family Family Family
+Friendly Friendly Friendly 
+Safe Safe Safe
 Loyalty Loyalty
 Trust Trust
 Passion Hobby
@@ -42,5 +47,9 @@ Entrepreneur Entrepreneur Entrepreneur
 Video Stream Data Binary
 Java PHP Javascript Ruby Scala Python html css
 jquery bootstrap spring mvc play symfony zend django rails angularjs C++ Swift Haskell
-Safe Safe Safe
+CodeFirstGirls CodeFirstGirls CodeFirstGirls CodeFirstGirls 
+WomenHackForNonProfit WomenHackForNonProfit WomenHackForNonProfit WomenHackForNonProfit 
+EmpowerHack EmpowerHack EmpowerHack EmpowerHack 
+AcornHack AcornHack AcornHack AcornHack 
+MumsInTech MumsInTech MumsInTech MumsInTech 
 ```
