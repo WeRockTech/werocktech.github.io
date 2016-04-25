@@ -44,4 +44,10 @@ Video Stream Data Binary
 Java PHP Javascript Ruby Scala Python html css
 jquery bootstrap spring mvc play symfony zend django rails angularjs C++ Swift Haskell
 Safe Safe Safe
+Empowerment
+Self-belief
+GoodbyeImposterSyndrome
+BeTheChange
+Leadership
+Perspectives
 ```
