@@ -4,7 +4,7 @@ nav.navbar {
 }
 
 footer.navbar {
-    border-top: 1px solid rgba(0,0,0,.1);
+
 }
 
 div.banner {
@@ -17,19 +17,36 @@ div.banner p {
 }
 
 h1 {
-    font-size: 1.4rem;
+    font-size: 1.8rem;
+    margin: 1rem 0rem;
 }
 
 h2 {
     font-size: 1.1rem;
 }
 
+h3 {
+    font-size: 1.3rem;
+    margin: 1.3rem;
+    padding-bottom: 1.2rem;
+    border-bottom: 1px solid #ccc;
+}
+
 div.card div.card-header,
 div.card div.card-footer {
-    background-color: #fff;
+    /*background-color: #fff;*/
 }
 
 body {
+
+}
+
+div.container {
+    margin-bottom: 6rem;
+}
+
+div.jumbotron {
+    background-image: url("/img/wordcloud.svg");
+    background-position-y: -70%;
     background-color: #333;
-    color: #ccc;
 }
