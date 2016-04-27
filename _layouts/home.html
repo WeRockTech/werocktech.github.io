@@ -1,0 +1,71 @@
+{% include header.html %}
+
+  {% include navigation.html %}
+
+  {% include banner.html %}
+
+  <div class="row">
+
+    <div class="col-sm-12">
+
+      {% for member in site.data.currentepisodes %}
+      <div class="card">
+        <div class="card-header">
+          <a target="_blank" href="https://twitter.com/hashtag/{{ member.series }}?f=tweets&vertical=default&src=hash">#{{ member.series }}</a> Series
+        </div>
+
+        <div class="row">
+          <div class="col-sm-6">
+            <div class="card-block">
+              <div class="card-img-top embed-responsive embed-responsive-16by9">
+                <iframe class="embed-responsive-item" src="//www.youtube.com/embed/{{ member.youtube_teaser }}?rel=0" allowfullscreen></iframe>
+              </div>
+              <div class="card-footer text-muted">
+                Teaser
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-6">
+            <div class="card-block">
+              <div class="card-img-top embed-responsive embed-responsive-16by9">
+                <iframe class="embed-responsive-item" src="//www.youtube.com/embed/{{ member.youtube_full }}?rel=0" allowfullscreen></iframe>
+              </div>
+              <div class="card-footer text-muted">
+                Full Episode
+              </div>
+            </div>
+          </div>
+        </div>
+
+          <div class="card-block">
+            <h4 class="card-title">
+              {{ member.name }}
+              {% if member.twitter %}
+              <a class="nav-link" href="https://twitter.com/{{ member.twitter }}">
+                <i class="fa fa-twitter-square fa-1x"></i>
+              </a>
+              {% endif %}
+              {% if member.github %}
+              <a class="nav-link" href="https://github.com/{{ member.github }}">
+                <i class="fa fa-github-square fa-1x"></i>
+              </a>
+              {% endif %}
+              {% if member.linkedin %}
+              <a class="nav-link" href="http://linkedin.com/in/{{ member.linkedin }}">
+                <i class="fa fa-linkedin-square fa-1x"></i>
+              </a>
+              {% endif %}
+            </h4>
+            <p class="card-text">{{ member.bio }}</p>
+          </div>
+          <div class="card-footer text-muted">
+            {{ member.date }}
+          </div>
+      </div>
+      {% endfor %}
+
+    </div>
+
+  </div>
+
+{% include footer.html %}
