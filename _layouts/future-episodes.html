@@ -1,0 +1,37 @@
+{% include header.html %}
+
+    {% include navigation.html %}
+
+    {% include banner.html %}
+
+    <div class="row">
+
+        <div class="col-sm-12">
+            <h1>Future Episodes</h1>
+            {% for member in site.data.futureepisodes %}
+            <h2>
+                {{ member.name }}
+                {% if member.twitter %}
+                <a class="nav-link" href="https://twitter.com/{{ member.twitter }}">
+                    <i class="fa fa-twitter-square fa-1x"></i>
+                </a>
+                {% endif %}
+                {% if member.github %}
+                <a class="nav-link" href="https://github.com/{{ member.github }}">
+                    <i class="fa fa-github-square fa-1x"></i>
+                </a>
+                {% endif %}
+                {% if member.linkedin %}
+                <a class="nav-link" href="http://linkedin.com/in/{{ member.linkedin }}">
+                    <i class="fa fa-linkedin-square fa-1x"></i>
+                </a>
+                {% endif %}
+                <span class="label label-success">{{ member.series }}</span>
+            </h2>
+            <p>{{ member.bio }}</p>
+            {% endfor %}
+        </div>
+
+    </div>
+
+{% include footer.html %}
