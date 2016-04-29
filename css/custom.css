@@ -51,3 +51,7 @@ div.jumbotron {
     background-position-y: -70%;
     background-color: #333;
 }
+
+div.card-episode {
+    margin-top: 5rem;
+}
