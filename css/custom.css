@@ -55,3 +55,16 @@ div.jumbotron {
 div.card-episode {
     margin-top: 5rem;
 }
+
+@media(max-width:62em) {
+    .navbar .navbar-nav>.nav-item {
+        float: none;
+        margin-left: .1rem;
+    }
+    .navbar .navbar-nav {
+        float:none !important;
+    }
+    .navbar .collapse.in, .navbar .collapsing  {
+        clear:both;
+    }
+}
