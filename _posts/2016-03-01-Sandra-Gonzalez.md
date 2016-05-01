@@ -2,7 +2,7 @@
 layout: episode
 name: Sandra Gonzalez
 bio: Principal UX Designer at @JUSTEATUK, @Pluralsight Author. Founder of @uxnrp & @UXforChangeUK.
-series: MumsRockTech
+category: MumsRockTech
 display_date: March 2016
 twitter: UXcata
 linkedin: sandragonzalez
