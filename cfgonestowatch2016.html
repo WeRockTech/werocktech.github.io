@@ -1,0 +1,10 @@
+---
+layout: series
+category: CFGOnesToWatch2016
+---
+
+{% for post in site.posts %}
+    {% if post.category == 'CFGOnesToWatch2016' %}
+        {% include episode.html %}
+    {% endif %}
+{% endfor %}

@@ -1,0 +1,10 @@
+---
+layout: series
+category: TeensRockTech
+---
+
+{% for post in site.posts %}
+    {% if post.category == 'TeensRockTech' %}
+        {% include episode.html %}
+    {% endif %}
+{% endfor %}

@@ -6,9 +6,26 @@
                 <i class="fa fa-home" aria-hidden="true"></i> Home
             </a>
         </li>
+        <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+                <i class="fa fa-television" aria-hidden="true"></i>
+                Series
+            </a>
+            <div class="dropdown-menu">
+                <a class="dropdown-item" href="/">All
+                    <span class="label label-pill label-info">{{ site.posts.size }}</span>
+                </a>
+                {% for category in site.categories %}
+                {% assign c = category | first %}
+                <a class="dropdown-item" href="/{{ c | slugify }}.html">{{ c }}
+                    <span class="label label-pill label-info">{{ site.categories[c].size }}</span>
+                </a>
+                {% endfor %}
+            </div>
+        </li>
         <li class="nav-item">
             <a class="nav-link" href="/future-episodes.html">
-                <i class="fa fa-television" aria-hidden="true"></i> Future episodes
+                <i class="fa fa-forward" aria-hidden="true"></i> Future episodes
             </a>
         </li>
         <li class="nav-item">

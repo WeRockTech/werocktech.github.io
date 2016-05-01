@@ -1,0 +1,10 @@
+---
+layout: series
+category: MumsRockTech
+---
+
+{% for post in site.posts %}
+    {% if post.category == 'MumsRockTech' %}
+        {% include episode.html %}
+    {% endif %}
+{% endfor %}

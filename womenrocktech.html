@@ -1,0 +1,10 @@
+---
+layout: series
+category: WomenRockTech
+---
+
+{% for post in site.posts %}
+    {% if post.category == 'WomenRockTech' %}
+        {% include episode.html %}
+    {% endif %}
+{% endfor %}
