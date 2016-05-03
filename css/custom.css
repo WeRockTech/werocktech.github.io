@@ -68,3 +68,7 @@ div.card-episode {
         clear:both;
     }
 }
+
+div.future-episodes {
+    margin-bottom: 1rem;
+}
