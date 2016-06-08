@@ -72,3 +72,7 @@ div.card-episode {
 div.future-episodes {
     margin-bottom: 1rem;
 }
+
+div.intro {
+    border:1px solid #0275d8;
+}
