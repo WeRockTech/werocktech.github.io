@@ -16,6 +16,10 @@ div.banner p {
     font-size: larger;
 }
 
+div.banner h1.text-lg-center {
+  margin-top: 5rem;
+}
+
 h1 {
     font-size: 1.8rem;
     margin: 1rem 0rem;
