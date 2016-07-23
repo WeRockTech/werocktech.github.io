@@ -34,7 +34,9 @@
                     {% endif %}
                 </h4>
                 <p>{{ post.bio }}</p>
-                <a href="{{ post.url }}" class="btn btn-primary">{{ post.name}} full video discussion</a>
+                {% if post.youtube_full %}
+                    <a href="{{ post.url }}" class="btn btn-primary">{{ post.name}} full video discussion</a>
+                {% endif %}
             </div>
         </div>
     </div>
