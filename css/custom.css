@@ -4,7 +4,8 @@ nav.navbar {
 }
 
 footer.navbar {
-
+    border-top:1px solid #ccc;
+    margin-top:4rem;
 }
 
 div.banner {
@@ -36,6 +37,7 @@ h3 {
 }
 
 div.container {
+    margin-top: 6rem;
     margin-bottom: 6rem;
 }
 
