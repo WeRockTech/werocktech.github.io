@@ -7,7 +7,9 @@
 {% include intro.html %}
 
 {% for post in site.posts %}
-    {% include episode.html %}
+    {% if post.category != 'Blog' %}
+        {% include episode.html %}
+    {% endif %}
 {% endfor %}
 
 {% include footer.html %}

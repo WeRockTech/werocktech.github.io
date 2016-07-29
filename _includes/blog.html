@@ -1,0 +1,26 @@
+<div class="card">
+    <div class="card-header">
+        {{ post.name }}
+    </div>
+
+    <div class="card-block">
+        <div class="row">
+            <div class="col-md-4">
+                <img src="/img/blog/hackbrexit/panel_sm.jpg" class="img-rounded img-fluid" />
+            </div>
+            <div class="col-md-8">
+                <h4>{{ post.name }}</h4>
+                <p>{{ post.description }}</p>
+
+                <a href="{{ post.url }}" class="btn btn-primary btn-block">
+                    Read more of "{{ post.name}}"
+                    <i class="fa fa-arrow-circle-right" aria-hidden="true"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <div class="card-footer text-muted">
+        {{ post.display_date }}
+    </div>
+</div>

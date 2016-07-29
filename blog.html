@@ -1,0 +1,10 @@
+---
+layout: blog
+---
+
+
+{% for post in site.posts %}
+    {% if post.category == 'Blog' %}
+        {% include blog.html %}
+    {% endif %}
+{% endfor %}
