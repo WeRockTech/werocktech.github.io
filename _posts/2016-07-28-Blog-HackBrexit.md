@@ -10,10 +10,11 @@ display_date: July 2016
 
 <img src="/img/blog/hackbrexit/panel.jpg" class="img-rounded img-fluid" />
 
-<p>Held at <a href="https://info.thoughtworks.com/Hack-Brexit.html" target="_blank">ThoughtWorks</a>, London, Hack Brexit was attended by dozens of people who voted to leave and remain. The aim was to create dialogue and action beyond Brexit, to help our country move forwards positively. It was organised by <a href="https://twitter.com/CharlotteBRF" target="_blank">Charlotte Fereday</a> from <a href="http://www.codefirstgirls.org.uk" target="_blank">Code First: Girls</a> and supported by WeRockTech. </p>
+<p>Held at <a href="https://info.thoughtworks.com/Hack-Brexit.html" target="_blank">ThoughtWorks</a>, London, Hack Brexit was attended by dozens of people who voted to leave and remain. The aim was to create dialogue and action beyond Brexit, to help our country move forwards positively.</p>
+
 <p>Seismic shifts have occurred in our political landscape, caused by Britain’s vote to exit from the European Union in the recent referendum. Many questions are still unanswered and the future is extremely uncertain. Massive changes are expected on national and international levels, and people want to reform the current system. </p>
-<p>Whatever your political views, whichever way you voted, Hack Brexit provided a platform for people to come together to create positive change. 
-People from both technical and non-technical backgrounds, and at all levels of ability were welcomed. Participants formed groups and pitched their ideas for apps that could help solve the issues.</p> 
+
+<p>Whatever your political views, whichever way you voted, Hack Brexit provided a platform for people to come together to create positive change. People from both technical and non-technical backgrounds, and at all levels of ability were welcomed. Participants formed groups and pitched their ideas for apps that could help solve the issues.</p> 
 
 <p>Three key themes</p>
 <p>The teams chose from the follow key theme surrounding the Brexit debate:</p> 
@@ -66,7 +67,18 @@ People from both technical and non-technical backgrounds, and at all levels of a
  
 <p>Watch the project videos on <a href="https://hackbrexit.github.io" target="_blank">HackBrexit Website</a> and follow the projects on <a href="https://github.com/HackBrexit" target="_blank">HackBrexit GitHub</a></p>
 
-<div class="card">
+<div class="organising-team">
+    <p><b>Organising team</b>:  
+    <a href="https://twitter.com/CharlotteBRF" target="_blank">Charlotte Fereday</a> (Programmes Manager, <a href="http://www.codefirstgirls.org.uk" target="_blank">Code First: Girls</a>), 
+    <a href="https://twitter.com/laurapatersonuk" target="_blank">Laura Paterson</a> (London Office Principal, ThoughtWorks), 
+    <a href="https://twitter.com/katrandzhieva" target="_blank">Adriana Katrandzhieva</a> (Recruitment Consultant, ThoughtWorks), 
+    <a href="https://twitter.com/JadeyDaubney" target="_blank">Jade Daubney</a> (UK's Recruitment Change Lead and Graduate Talent Scout, ThoughtWorks), 
+    Suzie Gilbert (Consultant for ThoughtWorks Social Justice initiatives, Pomegranate), 
+    Joe Sammut (Consultant for ThoughtWorks Social Justice initiatives, Pomegranate).  
+    Kindly supported by <a href="http://empowerhack.io" target="_blank">EmpowerHack</a> & <a href="http://werocktech.com" target="_blank">WeRockTech</a>.</p>
+</div>
+
+<div class="card written-by">
     <div class="card-header">
         Written by...
     </div>

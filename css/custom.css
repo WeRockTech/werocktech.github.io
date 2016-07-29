@@ -71,3 +71,12 @@ div.future-episodes {
 div.intro {
     border:1px solid #0275d8;
 }
+
+div.organising-team {
+    font-size: 1.3rem;
+    margin-top:3rem;
+}
+
+div.written-by {
+    margin-top:4rem;
+}
