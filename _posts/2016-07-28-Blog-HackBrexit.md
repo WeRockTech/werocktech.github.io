@@ -17,7 +17,7 @@ display_date: July 2016
 <p>Whatever your political views, whichever way you voted, Hack Brexit provided a platform for people to come together to create positive change. People from both technical and non-technical backgrounds, and at all levels of ability were welcomed. Participants formed groups and pitched their ideas for apps that could help solve the issues.</p> 
 
 <p>Three key themes</p>
-<p>The teams chose from the follow key theme surrounding the Brexit debate:</p> 
+<p>The teams chose from the following key themes surrounding the Brexit debate:</p> 
 
 <ul>
     <li>1. Truth, fiction and accountability</li>
