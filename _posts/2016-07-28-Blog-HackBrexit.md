@@ -4,6 +4,7 @@ name: "Beyond Brexit: Creating dialogue and action for a country divided"
 description: "Held at ThoughtWorks, London, Hack Brexit was attended by dozens of people who voted to leave and remain. The aim was to create dialogue and action beyond Brexit, to help our country move forwards positively. Seismic shifts have occurred in our political landscape, caused by Britain’s vote to exit from the European Union in the recent referendum. Many questions are still unanswered and the future is extremely uncertain. Massive changes are expected on national and international levels, and people want to reform the current system."
 category: Blog
 display_date: July 2016
+img: /img/blog/hackbrexit/panel-sm.jpg
 ---
 
 <h1>Beyond Brexit: Creating dialogue and action for a country divided</h1>
@@ -78,24 +79,4 @@ display_date: July 2016
     Kindly supported by <a href="http://empowerhack.io" target="_blank">EmpowerHack</a> & <a href="http://werocktech.com" target="_blank">WeRockTech</a>.</p>
 </div>
 
-<div class="card written-by">
-    <div class="card-header">
-        Written by...
-    </div>
-
-    <div class="card-block">
-        <div class="row">
-            <div class="col-md-4">
-                <img src="/img/blog/catherine-heath.jpg" class="img-rounded img-fluid" />
-            </div>
-            <div class="col-md-8">
-                <h4>Catherine Heath</h4>
-                <p>​She has a thing for psychology, diversity, tech and startups​, and is l​earning to code. She gives valuable insight into the women in tech scene on her website, <a href="http://awaywithwords.co">Away With Words</a>, and shares tips for success and self-development. Connect with Catherine on <a href="https://twitter.com/awaywithwords2">Twitter</a> or <a href="https://www.linkedin.com/in/catherine-heath">LinkedIn</a>. </p>
-            </div>
-        </div>
-    </div>
-
-    <div class="card-footer text-muted">
-        Catherine is a freelance tech blogger and content writer.
-    </div>
-</div>
+{% include catherine-heath.html %}
