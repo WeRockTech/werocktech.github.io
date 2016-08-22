@@ -4,11 +4,11 @@
         <md-input-container class="md-icon-float md-block">
             <!-- Use floating label instead of placeholder -->
             <label>Search</label>
-            <md-icon md-svg-src="img/icons/ic_person_24px.svg" class="keyword"></md-icon>
+            <md-icon class="material-icons">search</md-icon>
             <input ng-model="mc.search.query" type="text">
         </md-input-container>
         <md-input-container class="md-icon-float md-block">
-            <md-button class="md-fab md-mini" aria-label="Clear" ng-click="mc.filterByTag()">
+            <md-button class="md-fab md-mini" aria-label="Clear" ng-click="mc.filterByTag()" ng-show="mc.search.query">
                 <md-icon class="material-icons">clear</md-icon>
             </md-button>
         </md-input-container>
