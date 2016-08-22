@@ -1,0 +1,25 @@
+<div ng-controller="MainCtrl as mc" ng-init="mc.getSeries()">
+    <md-card ng-repeat="episode in mc.series">
+        <md-card-title>
+            <md-card-title-media>
+                <iframe class="card-media" ng-src="{{ episode.video.intro | trusted }}" allowfullscreen></iframe>
+            </md-card-title-media>
+            <md-card-title-text>
+                <span class="md-headline">{{ episode.name }}</span>
+                <span class="md-subhead">{{ episode.description }}</span>
+            </md-card-title-text>
+        </md-card-title>
+        <md-card-actions layout="row" layout-align="end center">
+            <md-button class="md-raised md-mini" aria-label="{{ action.name }}"
+                       ng-href="{{ action.url }}" target="_blank"
+                       ng-repeat="tag in episode.tags">
+                {{ tag.name }}
+            </md-button>
+            <md-button class="md-raised md-mini md-primary" aria-label="{{ action.name }}"
+                       ng-href="{{ action.url }}" target="_blank"
+                       ng-repeat="action in episode.actions">
+                {{ action.name }}
+            </md-button>
+        </md-card-actions>
+    </md-card>
+</div>

@@ -11,22 +11,14 @@ Giving you a voice in the #OpenSource Tech community to inspire others.
 
 ### Technologies
 
-* Twitter Bootstrap
+* Angular
+* Angular Material
 * FontAwesome
-* Jekyll
-* GitHub Pages
 
-### Development technologies
+## Build & development
 
-* Vagrant
-* Ansible
+Run `grunt` for building and `grunt serve` for preview.
 
----
+## Testing
 
-## Development environment setup
-
-1. `vagrant up` (this will build the required environment)
-2. `vagrant ssh`
-3. `cd /vagrant`
-4. `jekyll serve --force_polling`
-5. Visit `http://192.168.33.100:4000/`
+Running `grunt test` will run the unit tests with karma.

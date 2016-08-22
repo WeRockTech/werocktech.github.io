@@ -1,4 +1,6 @@
-_site
-.sass-cache
-.jekyll-metadata
+/node_modules
+/dist
+/.tmp
+/.sass-cache
+/bower_components
 .vagrant/
