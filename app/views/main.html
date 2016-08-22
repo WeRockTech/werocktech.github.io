@@ -1,5 +1,20 @@
 <div ng-controller="MainCtrl as mc" ng-init="mc.getSeries()">
-    <md-card ng-repeat="episode in mc.series">
+
+    <md-content layout-gt-sm="row">
+        <md-input-container class="md-icon-float md-block">
+            <!-- Use floating label instead of placeholder -->
+            <label>Search</label>
+            <md-icon md-svg-src="img/icons/ic_person_24px.svg" class="keyword"></md-icon>
+            <input ng-model="mc.search.query" type="text">
+        </md-input-container>
+        <md-input-container class="md-icon-float md-block">
+            <md-button class="md-fab md-mini" aria-label="Clear" ng-click="mc.filterByTag()">
+                <md-icon class="material-icons">clear</md-icon>
+            </md-button>
+        </md-input-container>
+    </md-content>
+
+    <md-card ng-repeat="episode in mc.series | filter:mc.search.query">
         <md-card-title>
             <md-card-title-media>
                 <iframe class="card-media" ng-src="{{ episode.video.intro | trusted }}" allowfullscreen></iframe>
@@ -12,7 +27,8 @@
         <md-card-actions layout="row" layout-align="end center">
             <md-button class="md-raised md-mini" aria-label="{{ action.name }}"
                        ng-href="{{ action.url }}" target="_blank"
-                       ng-repeat="tag in episode.tags">
+                       ng-repeat="tag in episode.tags"
+                       ng-click="mc.filterByTag(tag.name)">
                 {{ tag.name }}
             </md-button>
             <md-button class="md-raised md-mini md-primary" aria-label="{{ action.name }}"
