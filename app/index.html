@@ -20,13 +20,15 @@
       <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
     <![endif]-->
 
-    <md-content class="md-padding">
+    <md-content class="md-padding" ng-controller="MainCtrl as mc">
       <md-nav-bar md-selected-nav-item="currentNavItem" nav-bar-aria-label="navigation links">
         <md-nav-item md-nav-href="#/" name="home">Home</md-nav-item>
         <md-nav-item md-nav-href="#/blog" name="blog">Blog</md-nav-item>
         <md-nav-item md-nav-href="#/series" name="series">Series</md-nav-item>
         <md-nav-item md-nav-href="#/future-episodes" name="future-episodes">Future Episodes</md-nav-item>
         <md-nav-item md-nav-href="#/about" name="about">About</md-nav-item>
+        <span flex></span>
+        <md-icon class="material-icons" ng-click="mc.search($event)">search</md-icon>
       </md-nav-bar>
     </md-content>
 
