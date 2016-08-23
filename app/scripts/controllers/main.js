@@ -7,17 +7,17 @@
  * # MainCtrl
  * Controller of the werocktechApp
  */
-angular.module('werocktechApp')
+angular.module('werocktech.main', [])
   .controller('MainCtrl', function (series, $mdDialog) {
     var self = this;
 
-    self.filterByTag = function(keyword) {
+    self.filterByTag = function (keyword) {
       self.search = {
         'query': keyword
-      }
+      };
     };
 
-    self.getSeries = function() {
+    self.getSeries = function () {
       series.findAll().then(function successCallback(response) {
         self.series = response.data;
       }, function errorCallback(response) {
@@ -25,20 +25,21 @@ angular.module('werocktechApp')
       });
     };
 
-    self.search = function(ev) {
+    self.search = function (ev) {
       $mdDialog.show({
-        controller: self,
-        templateUrl: '/views/template/search.tmpl.html',
-        parent: angular.element(document.body),
-        targetEvent: ev,
-        clickOutsideToClose: true,
-        fullscreen: self.customFullscreen // Only for -xs, -sm breakpoints.
-      });
-        // .then(function (answer) {
-        //   self.status = 'You said the information was "' + answer + '".';
-        // }, function () {
-        //   self.status = 'You cancelled the dialog.';
-        // });
+          controller: 'SearchCtrl',
+          controllerAs: 'search',
+          templateUrl: '/views/template/search.tmpl.html',
+          parent: angular.element(document.body),
+          targetEvent: ev,
+          clickOutsideToClose: true,
+          fullscreen: self.customFullscreen // Only for -xs, -sm breakpoints.
+        })
+        .then(function (answer) {
+          console.log('You said the information was "' + answer + '".');
+        }, function () {
+          console.log('You cancelled the dialog.');
+        });
     };
 
   });

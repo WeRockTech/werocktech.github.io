@@ -7,7 +7,7 @@
  * # series
  * Service in the werocktechApp.
  */
-angular.module('werocktechApp')
+angular.module('services.series', [])
   .service('series', function ($http) {
 
     this.findAll = function () {

@@ -17,14 +17,22 @@ angular
     'ngResource',
     'ngRoute',
     'ngSanitize',
-    'ngMaterial'
+    'ngMaterial',
+
+    'filters.trusted',
+    
+    'services.series',
+
+    'werocktech.search',
+    'werocktech.about',
+    'werocktech.main'
   ])
-  .config(function ($routeProvider) {
+  .config(['$routeProvider', function ($routeProvider) {
     $routeProvider
       .when('/', {
         templateUrl: 'views/main.html',
         controller: 'MainCtrl',
-        controllerAs: 'main'
+        controllerAs: 'mc'
       })
       .when('/about', {
         templateUrl: 'views/about.html',
@@ -34,10 +42,9 @@ angular
       .otherwise({
         redirectTo: '/'
       });
-  })
-  .config(function($mdThemingProvider) {
+  }])
+  .config(['$mdThemingProvider', function ($mdThemingProvider) {
     $mdThemingProvider.theme('default')
       .primaryPalette('purple')
       .accentPalette('blue-grey');
-  })
-;
+  }]);

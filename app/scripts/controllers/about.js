@@ -7,7 +7,7 @@
  * # AboutCtrl
  * Controller of the werocktechApp
  */
-angular.module('werocktechApp')
+angular.module('werocktech.about', [])
   .controller('AboutCtrl', function () {
     this.awesomeThings = [
       'HTML5 Boilerplate',

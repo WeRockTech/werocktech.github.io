@@ -1,6 +1,9 @@
+.idea
+
 /node_modules
+/bower_components
+
 /dist
 /.tmp
 /.sass-cache
-/bower_components
 .vagrant/
