@@ -13,7 +13,6 @@ Giving you a voice in the #OpenSource Tech community to inspire others.
 
 * Angular
 * Angular Material
-* FontAwesome
 
 ## Build & development
 
