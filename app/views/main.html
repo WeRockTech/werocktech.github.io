@@ -30,6 +30,7 @@
                        ng-click="mc.filterByTag(tag.name)">
                 {{ tag.name }}
             </md-button>
+            <span flex></span>
             <md-button class="md-raised md-mini md-primary" aria-label="{{ action.name }}"
                        ng-href="{{ action.url }}" target="_blank"
                        ng-repeat="action in episode.actions">

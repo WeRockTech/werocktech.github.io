@@ -27,9 +27,9 @@ angular.module('werocktech.main', [])
 
     self.search = function (ev, name) {
       $mdDialog.show({
-          controller: 'SearchCtrl',
-          controllerAs: 'search',
-          templateUrl: '/views/template/search.tmpl.html',
+          controller: 'EpisodeCtrl',
+          controllerAs: 'episode',
+          templateUrl: '/views/template/episode.tmpl.html',
           locals: {
             name: name
           },

@@ -7,12 +7,8 @@
  * # search
  * Factory in the werocktechApp.
  */
-angular.module('werocktechApp')
+angular.module('services.search', [])
   .factory('search', function () {
-    // Service logic
-    // ...
-
-    // Public API here
     return {
       findOneByName: function (series, name) {
         var episode = {};

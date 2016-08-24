@@ -22,8 +22,9 @@ angular
     'filters.trusted',
     
     'services.series',
+    'services.search',
 
-    'werocktech.search',
+    'werocktech.episode',
     'werocktech.about',
     'werocktech.main'
   ])

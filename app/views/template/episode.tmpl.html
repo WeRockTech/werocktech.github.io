@@ -1,27 +1,27 @@
-<md-dialog aria-label="Mango (Fruit)" ng-init="search.findOneByName()">
+<md-dialog aria-label="{{ episode.details.name }}" ng-init="episode.findOneByName()">
     <form ng-cloak>
         <md-toolbar>
             <div class="md-toolbar-tools">
-                <h2>{{ search.episode.name }}</h2>
+                <h2>{{ episode.details.name }}</h2>
                 <span flex></span>
-                <md-button class="md-icon-button" ng-click="search.cancel()">
+                <md-button class="md-icon-button" ng-click="episode.cancel()">
                     <md-icon class="material-icons" aria-label="Close dialog">close</md-icon>
                 </md-button>
             </div>
         </md-toolbar>
         <md-dialog-content>
             <div class="md-dialog-content">
-                <p>{{ search.episode.description }}</p>
+                <p>{{ episode.details.description }}</p>
             </div>
         </md-dialog-content>
         <md-dialog-actions layout="row">
             <md-button class="md-raised md-mini md-primary" aria-label="{{ action.name }}"
                        ng-href="{{ action.url }}" target="_blank"
-                       ng-repeat="action in search.episode.actions">
+                       ng-repeat="action in episode.details.actions">
                 {{ action.name }}
             </md-button>
             <span flex></span>
-            <md-button ng-click="search.cancel()">
+            <md-button ng-click="episode.cancel()">
                 Close
             </md-button>
         </md-dialog-actions>
