@@ -25,20 +25,18 @@ angular.module('werocktech.main', [])
       });
     };
 
-    self.search = function (ev) {
+    self.search = function (ev, name) {
       $mdDialog.show({
           controller: 'SearchCtrl',
           controllerAs: 'search',
           templateUrl: '/views/template/search.tmpl.html',
+          locals: {
+            name: name
+          },
           parent: angular.element(document.body),
           targetEvent: ev,
           clickOutsideToClose: true,
           fullscreen: self.customFullscreen // Only for -xs, -sm breakpoints.
-        })
-        .then(function (answer) {
-          console.log('You said the information was "' + answer + '".');
-        }, function () {
-          console.log('You cancelled the dialog.');
         });
     };
 

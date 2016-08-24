@@ -14,6 +14,12 @@ Giving you a voice in the #OpenSource Tech community to inspire others.
 * Angular
 * Angular Material
 
+## Setup
+
+* `npm install`
+
+*Optionally* `bower install`, but will run with the above command
+
 ## Build & development
 
 Run `grunt` for building and `grunt serve` for preview.

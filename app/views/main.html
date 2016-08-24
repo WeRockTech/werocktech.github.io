@@ -26,7 +26,6 @@
         </md-card-title>
         <md-card-actions layout="row" layout-align="end center">
             <md-button class="md-raised md-mini" aria-label="{{ action.name }}"
-                       ng-href="{{ action.url }}" target="_blank"
                        ng-repeat="tag in episode.tags"
                        ng-click="mc.filterByTag(tag.name)">
                 {{ tag.name }}
@@ -35,6 +34,11 @@
                        ng-href="{{ action.url }}" target="_blank"
                        ng-repeat="action in episode.actions">
                 {{ action.name }}
+            </md-button>
+            <md-button class="md-raised md-mini md-warn" aria-label="More details"
+                       ng-show="episode.video.full"
+                       ng-click="mc.search($event, episode.name)">
+                More details...
             </md-button>
         </md-card-actions>
     </md-card>

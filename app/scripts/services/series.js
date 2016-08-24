@@ -9,6 +9,7 @@
  */
 angular.module('services.series', [])
   .service('series', function ($http) {
+    var self = this;
 
     this.findAll = function () {
       return $http({
@@ -16,4 +17,5 @@ angular.module('services.series', [])
         url: '/data/series.js'
       });
     };
+
   });
