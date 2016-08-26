@@ -1,4 +1,4 @@
-<md-dialog aria-label="{{ episode.details.name }}" ng-init="episode.findOneByName()">
+<md-dialog aria-label="{{ episode.details.name }}" ng-init="episode.findOneByName()" class="episode-details">
     <form ng-cloak>
         <md-toolbar>
             <div class="md-toolbar-tools">
@@ -11,6 +11,8 @@
         </md-toolbar>
         <md-dialog-content>
             <div class="md-dialog-content">
+                <iframe class="card-media" ng-src="{{ episode.details.video.full | trusted }}" allowfullscreen></iframe>
+                <h3>Full Episode</h3>
                 <p>{{ episode.details.description }}</p>
             </div>
         </md-dialog-content>
@@ -19,6 +21,10 @@
                        ng-href="{{ action.url }}" target="_blank"
                        ng-repeat="action in episode.details.actions">
                 {{ action.name }}
+            </md-button>
+            <md-button class="md-raised md-mini md-warn" aria-label="Search on Twitter for {{ episode.details.series }}"
+                       ng-href="https://twitter.com/hashtag/{{ episode.details.series }}?src=hash" target="_blank">
+                #{{ episode.details.series }}
             </md-button>
             <span flex></span>
             <md-button ng-click="episode.cancel()">

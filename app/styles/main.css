@@ -40,10 +40,16 @@
 
 md-card-title-media {
     margin-right: 1rem;
-    /*flex-grow: 3;*/
 }
 
 md-card-title-media iframe {
+    width:20rem;
+    height:12rem;
+}
+
+.episode-details iframe {
+    float:left;
+    margin-right: 1rem;
     width:20rem;
     height:12rem;
 }
