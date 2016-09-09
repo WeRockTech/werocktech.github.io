@@ -9,6 +9,17 @@ Giving you a voice in the #OpenSource Tech community to inspire others.
 * http://werocktech.github.io
 * http://werocktech.com
 
+## v2
+
+Version 2 coming soon!
+
+**Tools**
+
+* AngularJS
+* Material Design
+
+**Angular** branch for work in progress.
+
 ### Technologies
 
 * Twitter Bootstrap
