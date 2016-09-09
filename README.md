@@ -30,3 +30,4 @@ Giving you a voice in the #OpenSource Tech community to inspire others.
 3. `cd /vagrant`
 4. `jekyll serve --force_polling`
 5. Visit `http://192.168.33.100:4000/`
+
