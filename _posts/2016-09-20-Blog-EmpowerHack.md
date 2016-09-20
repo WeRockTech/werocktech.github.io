@@ -4,7 +4,7 @@ name: "EmpowerHack introduction: coding for refugee women"
 description: "EmpowerHack is a coding collective that supports female refugees through sustainable design. It was created in 2015 and began with one weekend-long hackathon."
 category: Blog
 display_date: September 2016
-img: /img/blog/empowerhack/panel-sm.jpg
+img: /img/blog/empowerhack/team-sm.jpg
 ---
 
 <h1>EmpowerHack introduction: coding for refugee women</h1>
