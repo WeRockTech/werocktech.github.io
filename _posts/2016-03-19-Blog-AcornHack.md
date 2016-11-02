@@ -35,6 +35,15 @@ img: /img/blog/acornhack/acornhack-sm.jpg
 
 <h2>Gallery</h2>
 
+<div class="card">
+  <div class="embed-responsive embed-responsive-16by9 card-img-top img-fluid">
+    <iframe class="embed-responsive-item" src="//www.youtube.com/embed/gEQ6qSUiarU?rel=0" allowfullscreen></iframe>
+  </div>
+  <div class="card-footer text-muted">
+      Everyone saying "Hello Sara" for me. Thanks! <i class="fa fa-smile-o"></i>
+    </div>
+</div>
+
 <img src="/img/blog/acornhack/down-time.jpg" alt="Down time" class="img-thumbnail" />
 <img src="/img/blog/acornhack/eddie-jaoude-github.jpg" alt="Eddie Jaoude GitHub" class="img-thumbnail" />
 <img src="/img/blog/acornhack/practicing-presentations-2.jpg" alt="Practicing presentation" class="img-thumbnail" />
