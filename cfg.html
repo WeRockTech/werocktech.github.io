@@ -1,0 +1,18 @@
+---
+layout: basic
+category: CFG
+---
+
+<h2>CodeFirstGirls</h2>
+
+<p>We're planning a day packed full of motivational talks, insightful panel discussions, illuminating tech talks as well as networking and a chance to hear from tech companies about what they are looking for in candidates. ​</p>
+
+<p>​Whether you are looking to become a developer, want to work in start ups, a big tech company or just want to see whether it could be for you, the conference will give you an insight into the amazing developments happening in technology, as well as inform you on how you can break your way in. </p>
+
+<p>For more information <a href="http://www.codefirstgirls.org.uk">http://www.codefirstgirls.org.uk</a></p>
+
+{% for post in site.posts %}
+    {% if post.category == 'CFG' %}
+        {% include episode.html %}
+    {% endif %}
+{% endfor %}
