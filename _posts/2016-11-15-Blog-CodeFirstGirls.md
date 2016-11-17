@@ -41,6 +41,8 @@ img: /img/blog/cfg16/codefirstgirls-sm.jpg
 
 <p><a href="https://twitter.com/heatherlauren" target="_blank">Heather Lauren</a> of Founders & Coders talked to attendees about how to get their first job in tech.</p> 
 
+<p><a href="https://twitter.com/MakisOtman" target="_blank">Makis Otman</a> & <a href="https://twitter.com/DaisyMolving" target="_blank">Daisy Molving</a> from <a href="https://8thlight.com" target="_blank">8th Light</a> gave a talk on "The Elixir of Joy", introducing beginners to Elixir as a great programming language to learn. </p>
+
 <p>Big players in finance discussed the future of money in relation to tech.</p> 
 
 
