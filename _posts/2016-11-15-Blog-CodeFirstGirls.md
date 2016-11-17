@@ -37,9 +37,9 @@ img: /img/blog/cfg16/codefirstgirls-sm.jpg
     and <a href="http://www.pwc.co.uk" target="_blank">PwC</a>, 
     among many others.</p> 
 
-<p><a href="https://twitter.com/LCarvalhoSe" target="_blank">Luciana Carvalho</a>, founder of SE Solutions, talked about narratives of self in Virtual Reality and how VR can change people’s lives outside of games. She touched on VR’s power to create empathy for others.</p> 
+<p><a href="https://twitter.com/LCarvalhoSe" target="_blank">Luciana Carvalho</a>, founder of <a href="https://www.lucianase.com/contact/" target="_blank">SE Solutions</a>, talked about narratives of self in Virtual Reality and how VR can change people’s lives outside of games. She touched on VR’s power to create empathy for others.</p> 
 
-<p><a href="https://twitter.com/heatherlauren" target="_blank">Heather Lauren</a> of Founders & Coders talked to attendees about how to get their first job in tech.</p> 
+<p><a href="https://twitter.com/heatherlauren" target="_blank">Heather Lauren</a> of <a href="http://www.foundersandcoders.com" target="_blank">Founders & Coders</a> talked to attendees about how to get their first job in tech.</p> 
 
 <p><a href="https://twitter.com/MakisOtman" target="_blank">Makis Otman</a> & <a href="https://twitter.com/DaisyMolving" target="_blank">Daisy Molving</a> from <a href="https://8thlight.com" target="_blank">8th Light</a> gave a talk on "The Elixir of Joy", introducing beginners to Elixir as a great programming language to learn. </p>
 
