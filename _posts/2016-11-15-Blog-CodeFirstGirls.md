@@ -34,7 +34,7 @@ img: /img/blog/cfg16/codefirstgirls-sm.jpg
 
 <h2>Technology - a Ticking Timebomb?</h2>
 
-<p>Several speakers, including <a href="https://twitter.com/tweetanor" target="_blank">Eleanor Harding</a> from Twitter, <a href="https://www.gov.uk/government/organisations/cabinet-office" target="_blank">Ben Aung</a> from the Cabinet Office, <a href="https://twitter.com/Tesco" target="_blank">Sophie Caley</a> from Tesco Labs, and <a href="https://twitter.com/AntonyMarcano" target="_blank">Anthony Marcano</a> from RiverGlide, participated in a panel about "Technology - a Ticking Timebomb?". It was moderated by <a href="https://twitter.com/kirstystyles1" target="_blank">Kirsty Styles</a> from Tech North.</p> 
+<p>Several speakers, including <a href="https://twitter.com/tweetanor" target="_blank">Eleanor Harding</a> from Twitter, <a href="https://www.gov.uk/government/organisations/cabinet-office" target="_blank">Ben Aung</a> from the Cabinet Office, and <a href="https://twitter.com/Tesco" target="_blank">Sophie Caley</a> from Tesco Labs, participated in a panel about "Technology - a Ticking Timebomb?". It was moderated by <a href="https://twitter.com/kirstystyles1" target="_blank">Kirsty Styles</a> from Tech North.</p> 
 
 <p>Discussions included how the most shared story during the Trump/Clinton elections was a fake news article. This raised questions about the responsibility of technology companies to promote the truth.</p> 
 
