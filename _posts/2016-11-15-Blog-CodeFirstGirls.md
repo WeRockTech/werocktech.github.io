@@ -23,7 +23,19 @@ img: /img/blog/cfg16/codefirstgirls-sm.jpg
 
 <p>It was an action-packed day with motivational speeches, insightful panel discussions, illuminating tech talks, as well as networking and a chance to hear from tech companies about what they look for in candidates. ​</p>
 
-<p>Many industry greats were there, including representatives from Twitter, ThoughtWorks, the Ministry of Defence, BlaBlaCar, The Guardian, and PwC, among many others.</p> 
+<p>Many industry greats were there, including representatives from 
+    <a href="http://twitter.com" target="_blank">Twitter</a>, 
+    <a href="https://www.tescolabs.com" target="_blank">Tesco</a>, 
+    <a href="http://www.worldpay.com" target="_blank">WorldPay</a>, 
+    <a href="http://www.shazam.com" target="_blank">Shazam</a>, 
+    <a href="https://improbable.io" target="_blank">Improbable</a>, 
+    <a href="https://www.news.co.uk" target="_blank">News UK</a>, 
+    <a href="https://www.thoughtworks.com" target="_blank">ThoughtWorks</a>, 
+    the <a href="https://www.gov.uk/government/organisations/ministry-of-defence" target="_blank">Ministry of Defence</a>, 
+    <a href="https://www.blablacar.co.uk" target="_blank">BlaBlaCar</a>, 
+    <a href="https://www.theguardian.com/uk" target="_blank">The Guardian</a>, 
+    and <a href="http://www.pwc.co.uk" target="_blank">PwC</a>, 
+    among many others.</p> 
 
 <p><a href="https://twitter.com/LCarvalhoSe" target="_blank">Luciana Carvalho</a>, founder of SE Solutions, talked about narratives of self in Virtual Reality and how VR can change people’s lives outside of games. She touched on VR’s power to create empathy for others.</p> 
 
