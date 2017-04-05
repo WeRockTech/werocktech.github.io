@@ -103,7 +103,7 @@ img: /img/blog/accessibility-hackathon/team-sm.jpg
 
 <p>They came up with another idea called MatchMaker using the Intel Edison which matched jobseekers with employers, called the ‘Tinder for employment’.</p>
 
-<p>Johan Gustafson and Olle Lundin from Team Swedish Mafia also came up with the idea of a job-matching app for the non-Intel Edison category. Along with the rest of their team, including Jason Davis and Mikael Holmgren, they also prototyped SNAPP for the Intel Edison category. This idea using face-detection technology was positively received as a potential future replacement for guide dogs.</p>
+<p>Johan Gustafson, Jason Davis, Mikael Holmgren and Olle Lundin from Team Swedish Mafia came up with an idea for a job-matching app in the non-Intel Edison category called WordMatch.</p>
 
 <h2>Feedback from the event</h2>
 
