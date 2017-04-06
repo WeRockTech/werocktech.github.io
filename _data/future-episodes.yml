@@ -1,3 +1,25 @@
+- name: Kimberley Cook
+  bio: Kimberley is one of the key forces addressing the UK tech industry diversity gap. As one of the main organisers of codebar, she facilitates free weekly coding workshops for under-represented groups. She also organises one-off events, including beginner friendly hack days and workshops dedicated to first-time Open Source contributions. When not doing all this, she works at Shortlist Media reinventing the online presence of their magazines Stylist and Shortlist.
+  series: CFGOnesToWatch2016
+  github: KimberleyCook
+  twitter: KimberleyCook91
+  img: 'https://pbs.twimg.com/profile_images/717725346351726592/4BGYCHI0.jpg'
+  status: post production (final stage)
+
+- name: Solveiga Pakštaitė
+  bio: Solveiga Pakštaitė is the inventor of Bump Mark, a patent-pending food expiry labelling innovation that she designed at Brunel University and is now being developed at the Central Research Laboratory by Solveiga's company, Design By Sol. It is a bio-responsive food expiry label provides accurate, real-time indication of the product’s freshness and is set to dramatically cut food waste. Her innovation in the food packaging industry has won multiple awards.
+  series: CFGOnesToWatch2016
+  twitter: Design_By_Sol
+  img: 'https://pbs.twimg.com/profile_images/700270533846396928/5UoGk55z.jpg'
+  status: post production (first stage)
+
+- name: Luciana Cas
+  bio: Cyber security supergeek, Luciana is a Cambridge, Harvard & MA Business School grad and tech strategist. Co-founder, systems thinker, with over 4+ experience in Startups, digital marketing, web development and operational management. She’s driven by big ideas & empowering tech entrepreneurs in London, SF, Lisbon & Manchester – especially next generation ladyhackers.
+  series: CFGOnesToWatch2016
+  twitter: LCarvalhoSe
+  img: 'https://pbs.twimg.com/profile_images/831663716181610498/Inl3Umcz.jpg'
+  status: post production (first stage)
+
 - name: Cedric Kisema
   bio: "developer @ 8thLight | codefirst:girl coach | and street dancer. こんにちはセドリックです、初めまして！開発者です"
   series: WeRockTech
@@ -5,6 +27,7 @@
   linkedin: cedrickisema
   twitter: c_nak
   img: 'https://pbs.twimg.com/profile_images/786945288091107328/GU887nV6_400x400.jpg'
+  status: to be scheduled
 
 - name: Tanya Powell
   bio: "Software Engineer | I keep my #melaninonfleek | One half of @podcast_gt | Board member @whfnp | @empowerhack-er | part of the @chaynHQ squad"
@@ -12,65 +35,54 @@
   github: tanyapowell
   linkedin: tanyapowell
   twitter: tanya_powell
-  img: 'https://pbs.twimg.com/profile_images/778714038414868480/zZfeZfP4_400x400.jpg'
-
-- name: Kimberley Cook
-  bio: Kimberley is one of the key forces addressing the UK tech industry diversity gap. As one of the main organisers of codebar, she facilitates free weekly coding workshops for under-represented groups. She also organises one-off events, including beginner friendly hack days and workshops dedicated to first-time Open Source contributions. When not doing all this, she works at Shortlist Media reinventing the online presence of their magazines Stylist and Shortlist.
-  series: CFGOnesToWatch2016
-  github: KimberleyCook
-  twitter: KimberleyCook91
-  img: 'https://pbs.twimg.com/profile_images/717725346351726592/4BGYCHI0.jpg'
+  img: 'https://pbs.twimg.com/profile_images/816969585203277824/lDNkdpP6.jpg'
+  status: to be scheduled
 
 - name: Laura Lambert
   bio: Laura is CEO & Co-founder at Beffitd, an intelligent sizing tool that helps customers to shop online with confidence. Beffitd was founded in 2012 whilst Laura and her Co-founder Toby were both at Oxford University. Laura was an Entrepreneur First 2012 cohort. Befittd has continued to grow and is now comprised of a team of seven based in East London.
   series: CFGOnesToWatch2016
   linkedin: laura-lambert-7a64544b
   img: 'https://media.licdn.com/media/p/3/005/04d/02e/1e927ad.jpg'
+  status: to be scheduled
 
 - name: Sophie Dundovic
   bio: Sophie leads operations at Parasym Health, who provide bioelectric treatment for chronic diseases. She is also Programme Manager at Oxygen, currently focused on running a conference and mentorship programme for African Entrepreneurs in conjunction with the British Council. She joined the first ever Code First Girls cohort in 2013, and is an EF alumnus, with a degree from Cambridge University.
   series: CFGOnesToWatch2016
   twitter: sophiedundovic
   img: 'https://pbs.twimg.com/profile_images/491534586254348288/c3S-KPhp.jpeg'
-
-- name: Solveiga Pakštaitė
-  bio: Solveiga Pakštaitė is the inventor of Bump Mark, a patent-pending food expiry labelling innovation that she designed at Brunel University and is now being developed at the Central Research Laboratory by Solveiga's company, Design By Sol. It is a bio-responsive food expiry label provides accurate, real-time indication of the product’s freshness and is set to dramatically cut food waste. Her innovation in the food packaging industry has won multiple awards.
-  series: CFGOnesToWatch2016
-  twitter: Design_By_Sol
-  img: 'https://pbs.twimg.com/profile_images/700270533846396928/5UoGk55z.jpg'
-
-- name: Luciana Cas
-  bio: Cyber security supergeek, Luciana is a Cambridge, Harvard & MA Business School grad and tech strategist. Co-founder, systems thinker, with over 4+ experience in Startups, digital marketing, web development and operational management. She’s driven by big ideas & empowering tech entrepreneurs in London, SF, Lisbon & Manchester – especially next generation ladyhackers.
-  series: CFGOnesToWatch2016
-  twitter: LCarvalhoSe
-  img: 'https://pbs.twimg.com/profile_images/787934384313729024/_JWksxDo_400x400.jpg'
+  status: to be scheduled
 
 - name: Zara Nowell
   bio: In 2013, Zara graduated from the University of Exeter with a degree in English and no idea whatsoever that she would end up working in tech. Since then, she has played a fundamental role in Aviva’s digital transformation, organised several InsurTech hackathons, helped to set-up an insurance network on Meetup and has even launched her own marketing campaign for Aviva’s innovation activity involving 500 yellow boxes and several of London’s co-working spaces.
   series: CFGOnesToWatch2016
   twitter: codezara
   img: 'https://pbs.twimg.com/profile_images/668530543647195136/J9NwP7Fu.jpg'
+  status: to be scheduled
 
 - name: Phoebe Hugh
   bio: Phoebe Hugh is the Co-founder & CEO of Brolly, an insurance tech startup that uses artificial intelligence to advise customers through a mobile app, backed by Entrepreneur First. Prior to this she worked in insurance underwriting and product development at Aviva, the largest UK insurer, and gained qualifications with the Chartered Insurance Institute. Phoebe is also co-founder of Ambition First, a diversity & inclusion organisation that supports emerging millennial business talent. Prior to this she read Psychology at the University of Manchester.
   series: CFGOnesToWatch2016
   twitter: PhoebeHugh_
   linkedin: phoebehugh
-  img: 'https://pbs.twimg.com/profile_images/527844004767879168/SZtygtSt.jpeg'
+  img: 'https://pbs.twimg.com/profile_images/833149496062308353/D4VY4mj2.jpg'
+  status: to be scheduled
 
 - name: Nikhila Ravi
   bio: Nikhila is a web developer at Founders & Coders C.I.C. She also volunteers there as a mentor, helping to develop teaching materials and delivering workshops on JavaScript. She has recently helped to start Node Girls London. Prior to this Nikhila worked on Programmes at CF:G, was a researcher at Harvard University and was awarded an IARU Sustainability Fellowship, all whilst completing an Engineering Masters at the University of Cambridge.
   series: CFGOnesToWatch2016
   twitter: nikhilaravi
   img: 'https://pbs.twimg.com/profile_images/784431889767550976/4ODj0O5e_400x400.jpg'
+  status: to be scheduled
 
 - name: Diana K L
   bio: Diana is studying MEng Mathematical Computation at UCL, and is Lead Curriculum Instructor (Front-End) at Code First Girls. Alongside being a She++ ambassador and on committee for UCLU TechSoc & Pole Fitness Society, she's recently started a dev house, ​a​ webots, working on bots​ (personal assistants)​, web apps & building startups.
   series: CFGOnesToWatch2016
   twitter: duhrtyd
   img: 'https://pbs.twimg.com/profile_images/790488568766599169/V1siTRLM_400x400.jpg'
+  status: to be scheduled
 
 - name: Charlene Badibanga
   bio: My name is Charlene and I’m a 20-something year old Londoner. Over the last year I set myself the challenge of changing careers from policy and advocacy to becoming a Software Developer.
   series: MyFirstDevRole
   img: 'https://cloud.githubusercontent.com/assets/624760/22120308/2b4fbb22-de77-11e6-8a64-6db342f316b6.jpg'
+  status: to be scheduled
