@@ -23,9 +23,11 @@
                     </a>
                     {% for category in site.categories %}
                     {% assign c = category | first %}
-                    <a class="dropdown-item" href="/{{ c | slugify }}.html">{{ c }}
-                        <span class="label label-pill label-info">{{ site.categories[c].size }}</span>
-                    </a>
+                    {% if c != 'Blog' %}
+                      <a class="dropdown-item" href="/{{ c | slugify }}.html">{{ c }}
+                          <span class="label label-pill label-info">{{ site.categories[c].size }}</span>
+                      </a>
+                    {% endif %}
                     {% endfor %}
                 </div>
             </li>
