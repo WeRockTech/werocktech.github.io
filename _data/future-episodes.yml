@@ -28,6 +28,21 @@
   img: 'https://pbs.twimg.com/profile_images/852190859894427648/_Fi3A3VQ.jpg'
   status: scheduled for 16th April 2017
 
+- name: Clare Devine
+  bio: "Apprentice Software Developer at Sky"
+  series: CFGOnesToWatch2017
+  linkedin: clare-devine-a68756105
+  img: 'https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAznAAAAJGIyNTc2ZTM2LTRkZTEtNDE5Ni05ZTJkLTIzZmVkNzVjZGEzNA.jpg'
+  status: scheduled for Mon 24th of April 2017
+
+- name: Victoria Butt
+  bio: "Microbiome & bioinformatics @KingsCollegeLon | @Innovation_F | #womeninSTEM | #rstats | Ballroom dancer | ex- @Cambridge_Uni Natsci"
+  series: CFGOnesToWatch2017
+  linkedin: victoria-butt-31b2aa126
+  twitter: victoriabutt1
+  img: 'https://pbs.twimg.com/profile_images/824734011985686528/qU41iYsR.jpg'
+  status: scheduled for Wed 26th April 2017
+
 - name: Cedric Kisema
   bio: "developer @ 8thLight | codefirst:girl coach | and street dancer. こんにちはセドリックです、初めまして！開発者です"
   series: WeRockTech
@@ -101,4 +116,19 @@
   linkedin: doniyasoni
   twitter: doniyasoni
   img: 'https://pbs.twimg.com/profile_images/847515593943273472/L9j7A6bE.jpg'
+  status: to be scheduled
+
+- name: Amandine Flachs
+  bio: "#VirtualReality Specialist | Com&Events Manager @RealitiesCentre | Co-founder at UNFOLD #WomeninVR #Diversity"
+  series: CFGOnesToWatch2017
+  linkedin: amandineflachs
+  twitter: AmandineFlachs
+  img: 'https://pbs.twimg.com/profile_images/818112373403877377/6oOz5Zke.jpg'
+  status: to be scheduled
+
+- name: Emily Horgan
+  bio: "My interests include UX/UI design, ios development, digital art, print media and journalism. My background allows me to take a technical and creative angle to all of my work. I am currently working as a UX designer for Bemo, a digital agency based in Edinburgh, Scotland"
+  series: CFGOnesToWatch2017
+  linkedin: emily-horgan-79787197
+  img: 'https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAA05AAAAJDI2MzAwOTA1LWNhMjgtNGEwZC1iODZjLTc1ZWEzYmFhYTg1Mw.jpg'
   status: to be scheduled
