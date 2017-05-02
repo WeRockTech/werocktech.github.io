@@ -52,14 +52,6 @@
   img: 'https://pbs.twimg.com/profile_images/824734011985686528/qU41iYsR.jpg'
   status: scheduled for Wed 26th April 2017
 
-- name: Emma Northcott
-  bio: "All things FinTech, fitness and fashion Customer Operations @Monzo Previously Business Development Manager @Crowdcube"
-  series: CFGOnesToWatch2017
-  linkedin: emmanorthcott
-  twitter: EmNorthcott
-  img: 'https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAjsAAAAJDQ5YzUwZTk5LTcxNjMtNDViOC05OWVmLWQzNGUyOTliYjYyZQ.jpg'
-  status: scheduled for Mon 1st May 2017
-
 - name: Molly Watts
   bio: "Tech/Web Accessibility/Usability Consultant, Motivational Speaker, Author, Blogger, International Ambassador/Advocate GN ReSound & MW Trust #Openingyourwindow"
   series: CFGOnesToWatch2017
@@ -67,6 +59,14 @@
   twitter: MollyWattTalks
   img: 'https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAsyAAAAJDhjZDYwZWY4LTFmY2ItNDkyNC05MGQ0LTgxNGYxZTE3ZmVmMQ.jpg'
   status: scheduled for Thur 4th May 2017
+
+- name: Emma Northcott
+  bio: "All things FinTech, fitness and fashion Customer Operations @Monzo Previously Business Development Manager @Crowdcube"
+  series: CFGOnesToWatch2017
+  linkedin: emmanorthcott
+  twitter: EmNorthcott
+  img: 'https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAjsAAAAJDQ5YzUwZTk5LTcxNjMtNDViOC05OWVmLWQzNGUyOTliYjYyZQ.jpg'
+  status: to be scheduled
 
 - name: Cedric Kisema
   bio: "developer @ 8thLight | codefirst:girl coach | and street dancer. こんにちはセドリックです、初めまして！開発者です"
