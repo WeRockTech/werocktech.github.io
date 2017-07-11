@@ -9,7 +9,7 @@ youtube_teaser: 6RRWS24TT54
 youtube_full: URTVlc2qdlo
 ---
 
-### Transscript
+### Transcript
 
 - 0:00-0:16 My name is Solveiga and I come from an industrial background where I have always been very passionate about improving all sorts on experiences for people and generally using design to problem solve.
 
