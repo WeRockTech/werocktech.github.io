@@ -21,14 +21,6 @@
   img: 'https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAA0cAAAAJGRkZmM0ZTI3LTc2MmItNGRjMC04MWE5LTYwMWY5N2QxNmFkNw.jpg'
   status: post production (final stage)
 
-- name: Irina Tsyganok
-  bio: 'Software developer @ynap. Mother, speaker, published author. Shortlisted in "Rising Star of The Year" @womeninitawards, "The Ones To Watch" @CodeFirstGirls'
-  series: CFGOnesToWatch2017
-  linkedin: irina-tsyganok-51238220
-  twitter: irinatsyganok
-  img: 'https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAABkAAAAJGViMmEzMTZiLWMxMjktNGQyNi1iZDQ5LTE4OGRiOTYzZmIzNA.jpg'
-  status: post production (final stage)
-
 - name: Clare Devine
   bio: "Apprentice Software Developer at Sky"
   series: CFGOnesToWatch2017
@@ -52,14 +44,14 @@
   twitter: doniyasoni
   img: 'https://pbs.twimg.com/profile_images/869997174205108224/rBuFuYky.jpg'
   status: recorded
-  
+
 - name: Amandine Flachs
   bio: "#VirtualReality Specialist | Com&Events Manager @RealitiesCentre | Co-founder at UNFOLD #WomeninVR #Diversity"
   series: CFGOnesToWatch2017
   linkedin: amandineflachs
   twitter: AmandineFlachs
   img: 'https://pbs.twimg.com/profile_images/867128921304772608/BxA8eseY.jpg'
-  status: Sun 11th of June 2017
+  status: recorded
 
 - name: Molly Watt
   bio: "Tech/Web Accessibility/Usability Consultant, Motivational Speaker, Author, Blogger, International Ambassador/Advocate GN ReSound & MW Trust #Openingyourwindow"
