@@ -13,6 +13,14 @@
   img: 'https://pbs.twimg.com/profile_images/852190859894427648/_Fi3A3VQ.jpg'
   status: post production (first stage)
 
+- name: Louise Leolin
+  bio: "An awkward Londoner 🙃 Leader of the Thieves Guild and co-founder of @Dinobytelabs 🍩+🎮=💚 #gamedev"
+  series: CFGOnesToWatch2017
+  linkedin: louibyte
+  twitter: Louibyte
+  img: 'https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAo7AAAAJGNkNWNlMWUwLTljZTMtNDY4My1iYTY1LTc1ZmYyZDRmNDk3MQ.jpg'
+  status: post production (first stage)
+
 - name: Tanya Mathew
   bio: "Emerging Tech Consultant | Digital Products | International Development"
   series: CFGOnesToWatch2017
@@ -59,14 +67,6 @@
   linkedin: alexismonks
   img: 'https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAA17AAAAJDJkMDhhMTUwLTE0YmMtNDk4YS1iNzc4LWRmMTg0YWJjNTJmYw.jpg'
   status: Discussion on Sun 23th July 2017
-
-- name: Louise Leolin
-  bio: "An awkward Londoner 🙃 Leader of the Thieves Guild and co-founder of @Dinobytelabs 🍩+🎮=💚 #gamedev"
-  series: CFGOnesToWatch2017
-  linkedin: louibyte
-  twitter: Louibyte
-  img: 'https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAo7AAAAJGNkNWNlMWUwLTljZTMtNDY4My1iYTY1LTc1ZmYyZDRmNDk3MQ.jpg'
-  status: scheduled for Friday 25th of July
 
 - name: Molly Watt
   bio: "Tech/Web Accessibility/Usability Consultant, Motivational Speaker, Author, Blogger, International Ambassador/Advocate GN ReSound & MW Trust #Openingyourwindow"
